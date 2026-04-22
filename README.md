@@ -39,13 +39,4 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/ccakmak60">
-    <img src="https://github-readme-stats.vercel.app/api?username=ccakmak60&show_icons=true&theme=radical&hide_border=true" alt="Cem's GitHub Stats" />
-  </a>
-  <a href="https://github.com/ccakmak60">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccakmak60&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
